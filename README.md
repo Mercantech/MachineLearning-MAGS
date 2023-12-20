@@ -23,4 +23,4 @@ Her er en samling af ipynb filer som forklare omkring TimeSeries<br><br>
 [6. Neural Network](https://github.com/MAGS-Template/MachineLearning/tree/main/6.%20Neural%20Network) <br>
 Her er en samling af ipynb filer som forklare omkring  Neural Network<br>
 
-Skulle der ske at være fejl og mangler, hvilket der nok er, er I mere end velkommende til at åbne en issue, så det kan blive ændret!
+Skulle der ske at være fejl og mangler, hvilket der nok er, er I mere end velkommende til at åbne et [issue](https://github.com/MAGS-Template/MachineLearning/issues), så det kan blive ændret!
