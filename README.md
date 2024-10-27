@@ -1,9 +1,9 @@
 Velkommen til 10 dages forløb med Machine Learning
 I finder alle opgaverne delt ud i de 6 emner som vi skal lege med! Det er kun de første 3, hvor vi laver opgaverne, resten er til hvis det man. 
 
-Der er lidt forskellige problemer, alt efter hvor man kører ens kode. Man kan finde en liste omkring de problemer som eventuelt skulle være her [ML-Opgaver](https://mercantec.notion.site/Opgaver-til-Machine-Learning-bf08a61b5688498a9e0047234e3da991?pvs=4). Opgaverne er optimeret til [Colab](https://colab.google/), så det anbefales at køre dem der!
+Der er lidt forskellige problemer, alt efter hvor man kører ens kode. Man kan finde en liste omkring de problemer som eventuelt skulle være her [ML-Opgaver](https://mercantec.notion.site/Opgaver-til-Machine-Learning-125dab5ca2378033a3f0d80df64e1b9f). Opgaverne er optimeret til [Colab](https://colab.google/), så det anbefales at køre dem der!
 
-Teori og program findes her: [Notion](https://mercantec.notion.site/Machine-Learning-e89a2baf0d414172b13d07465366482e?pvs=4) 
+Teori og program findes her: [Notion](https://mercantec.notion.site/Machine-Learning-125dab5ca237803b8492ecf23ba3f5bc) 
 
 Er der fejl eller mangler, så lav et issue på hoved repo'et - her [Issues](https://github.com/MAGS-Template/MachineLearning/issues)
 
