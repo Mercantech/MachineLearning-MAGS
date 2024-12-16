@@ -87,17 +87,17 @@ Matplotlib er et omfattende bibliotek til at skabe statiske, animerede og intera
 
 ### Opgaveoversigt
 
-1. **Analyser og visualiser data for politistop**
-
-   - **Beskrivelse:** Rens og forbered data ved hjælp af Pandas, analyser aldersgrupper og køns- og racefordeling, og visualiser resultaterne med Matplotlib.
-   - **Sværhedsgrad:** Mellem
-   - **Detaljer:** Denne opgave kræver en forståelse af dataforberedelse, analyse og visualisering. Det involverer flere trin, herunder datarensning, beregning af aldersgrupper, og oprettelse af forskellige diagrammer.
-
-2. **Simulering af Møntkast og Statistisk Analyse**
+1. **Simulering af Møntkast og Statistisk Analyse**
 
    - **Beskrivelse:** Simuler et stort antal møntkast, analyser resultaterne statistisk, og visualiser sandsynligheden for udfald.
    - **Sværhedsgrad:** Let
    - **Detaljer:** Denne opgave fokuserer på at skrive en simpel Python-funktion til simulering og anvende grundlæggende statistiske principper. Det er en god introduktion til simulering og sandsynlighedsberegning.
+
+2. **Analyser og visualiser data for politistop**
+
+   - **Beskrivelse:** Rens og forbered data ved hjælp af Pandas, analyser aldersgrupper og køns- og racefordeling, og visualiser resultaterne med Matplotlib.
+   - **Sværhedsgrad:** Mellem
+   - **Detaljer:** Denne opgave kræver en forståelse af dataforberedelse, analyse og visualisering. Det involverer flere trin, herunder datarensning, beregning af aldersgrupper, og oprettelse af forskellige diagrammer.
 
 3. **Porteføljeoptimering og Analyse af S&P 500 Aktier**
    - **Beskrivelse:** Analyser historiske aktiedata, design en portefølje, og beregn afkastet over en 10-årig periode.
