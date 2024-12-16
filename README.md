@@ -1,29 +1,32 @@
 Velkommen til 10 dages forløb med Machine Learning
-I finder alle opgaverne delt ud i de 6 emner som vi skal lege med! Det er kun de første 3, hvor vi laver opgaverne, resten er til hvis det man. 
+I finder alle opgaverne delt ud i de 6 emner som vi skal lege med! Det er kun de første 3, hvor vi laver opgaverne, resten er til hvis det man.
 
-Der er lidt forskellige problemer, alt efter hvor man kører ens kode. Man kan finde en liste omkring de problemer som eventuelt skulle være her [ML-Opgaver](https://mercantec.notion.site/Opgaver-til-Machine-Learning-125dab5ca2378033a3f0d80df64e1b9f). Opgaverne er optimeret til [Colab](https://colab.google/), så det anbefales at køre dem der!
+Der er lidt forskellige problemer, alt efter hvor man kører ens kode. Man kan finde en liste omkring de problemer som eventuelt skulle være her [ML-Opgaver](https://mercantec.notion.site/Opgaver-til-Machine-Learning-125dab5ca2378033a3f0d80df64e1b9f). Opgaverne er optimeret til [Colab](https://colab.google/), så det anbefales at køre dem der! Hvis man hellere vil have det på ens lokale computer er vores anbefaling VSCode!
 
-Teori og program findes her: [Notion](https://mercantec.notion.site/Machine-Learning-125dab5ca237803b8492ecf23ba3f5bc) 
+Teori og program findes her: [Notion](https://mercantec.notion.site/ml)
 
-Er der fejl eller mangler, så lav et issue på hoved repo'et - her [Issues](https://github.com/MAGS-Template/MachineLearning/issues)
+Er der fejl eller mangler, så lav et issue på hoved repo'et - her [Issues](https://github.com/Mercantech/MachineLearning/issues)
 
+[0. Dataanalyse](/0.Dataanalyse/) **pensum**
 
+For mange er Python helt nyt, så vi skal lige have styr på hvordan vi bruger pakkerne [NumPy](https://mercantec.notion.site/NumPy-43c1df607f734e688a6e9c266db871a9?pvs=4) og [Pandas](https://mercantec.notion.site/Pandas-222dfee0191e41789aea456f3ecdd71c?pvs=4). Det gør vi ved at lave dataanalyse og visualiserings opgaver!
 
-[0. NumPy & Pandas](https://github.com/MAGS-Template/MachineLearning/tree/main/0.%20NumPy%20%26%20Pandas) **pensum**
+[1. Regression](/1.Regression/) **pensum** <br>
+Her er en samling af ipynb filer som forklare omkring Regression - [Regressions Pensum](https://mercantec.notion.site/ml-regression)<br><br>
 
-For mange er Python helt nyt, så vi skal lige have styr på hvordan vi bruger pakkerne [NumPy](https://mercantec.notion.site/NumPy-43c1df607f734e688a6e9c266db871a9?pvs=4) og [Pandas](https://mercantec.notion.site/Pandas-222dfee0191e41789aea456f3ecdd71c?pvs=4)
+[2. Classification](/2.Classification/) **pensum** <br>
+Her er en samling af ipynb filer som forklare omkring klassification - [Classification Pensum](https://mercantec.notion.site/ml-classification)<br><br>
 
-[1. Regression](https://github.com/MAGS-Template/MachineLearning/tree/main/2.%20Regression) **pensum** <br>
-Her er en samling af ipynb filer som forklare omkring Regression<br><br>
-[2. Classification](https://github.com/MAGS-Template/MachineLearning/tree/main/1.%20Classification) **pensum** <br>
-Her er en samling af ipynb filer som forklare omkring klassification<br><br>
-[3. Cluster](https://github.com/MAGS-Template/MachineLearning/tree/main/3.%20Cluster) **ikke pensum** <br>
-Her er en samling af ipynb filer som forklare omkring Cluster<br><br>
-[4. Fit](https://github.com/MAGS-Template/MachineLearning/tree/main/4.%20Fit) **ikke pensum** <br>
-Her er en samling af ipynb filer som forklare omkring Fit<br><br>
-[5. TimeSeries](https://github.com/MAGS-Template/MachineLearning/tree/main/5.%20TimeSeries) **ikke pensum** <br>
-Her er en samling af ipynb filer som forklare omkring TimeSeries<br><br>
-[6. Neural Network](https://github.com/MAGS-Template/MachineLearning/tree/main/6.%20Neural%20Network) **ikke pensum** <br>
-Her er en samling af ipynb filer som forklare omkring  Neural Network<br>
+[3. Cluster](/3.Cluster/) **ikke pensum** <br>
+Her er en samling af ipynb filer som forklare omkring Cluster - [Cluster Pensum](https://mercantec.notion.site/ml-cluster)<br><br>
 
-Skulle der ske at være fejl og mangler, hvilket der nok er, er I mere end velkommende til at åbne et [issue](https://github.com/MAGS-Template/MachineLearning/issues), så det kan blive ændret!
+[4. Fit](/4.Fit/) **ikke pensum** <br>
+Her er en samling af ipynb filer som forklare omkring Fit - [Fit Pensum](https://mercantec.notion.site/ml-fit)<br><br>
+
+[5. TimeSeries](/5.TimeSeries/) **ikke pensum** <br>
+Her er en samling af ipynb filer som forklare omkring TimeSeries - [TimeSeries Pensum](https://mercantec.notion.site/ml-timeseries)<br><br>
+
+[6. Neural Network](/6.NeuralNetwork/) **ikke pensum** <br>
+Her er en samling af ipynb filer som forklare omkring Neural Network - [Neural Network Pensum](https://mercantec.notion.site/ml-neural-network)<br>
+
+Skulle der ske at være fejl og mangler, hvilket der nok er, er I mere end velkommende til at åbne et [issue](https://github.com/Mercantech/MachineLearning/issues), så det kan blive ændret!
