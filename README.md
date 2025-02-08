@@ -1,7 +1,7 @@
 Velkommen til 10 dages forløb med Machine Learning
 I finder alle opgaverne delt ud i de 6 emner som vi skal lege med! Det er kun de første 3, hvor vi laver opgaverne, resten er til hvis det man.
 
-Der er lidt forskellige problemer, alt efter hvor man kører ens kode. Man kan finde en liste omkring de problemer som eventuelt skulle være her [ML-Opgaver](https://mercantec.notion.site/Opgaver-til-Machine-Learning-125dab5ca2378033a3f0d80df64e1b9f). Opgaverne er optimeret til [Colab](https://colab.google/), så det anbefales at køre dem der! Hvis man hellere vil have det på ens lokale computer er vores anbefaling VSCode!
+Der er lidt forskellige problemer, alt efter hvor man kører ens kode. Man kan finde en liste omkring de problemer som eventuelt skulle være her [ML-Opgaver](https://mercantec.notion.site/Opgaver-til-Machine-Learning-125dab5ca2378033a3f0d80df64e1b9f). Opgaverne er lavet med VSCode, så det anbefales at køre dem der! Hvis man af den ene eller anden grund ikke kan køre dem på sin egen maskine, så kan man altid køre dem på [Google Colab](https://colab.google/), som er en gratis tjeneste. Ellers kan man også bruge vores Datacenter, som dog har begrænset processer kraft.
 
 Teori og program findes her: [Notion](https://mercantec.notion.site/ml)
 
